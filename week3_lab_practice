@@ -1,0 +1,171 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    
+    /*
+    //Problem 1.
+    int intNumber = 24;
+    float floatNumber = 4.3;
+    double doubleNumber = 45.1234;
+    bool boolean = 1;
+    char charName = 'A';
+    
+    cout << intNumber << endl;
+    cout << floatNumber << endl;
+    cout << doubleNumber << endl;
+    cout << boolean << endl;
+    cout << charName << endl;
+    
+    //Problem 2.
+    int x;
+    int y;
+    
+    cout << "Enter numbers that you want calculate" << endl;
+    cout << "First number: ";
+    cin >> x;
+    cout << "Second number: ";
+    cin >> y;
+    cout << "The sum is: " << x + y << endl;
+     
+    //Problem 3.
+    int my_num1 = 38;
+    int my_num2 = 73;
+    int sum = my_num1 + my_num2;
+    
+    cout << "The sum of 38 and 73 is " << sum << endl;
+    
+    //Problem 4.
+    float myFnum1;
+    float myFnum2;
+    
+    cout << "Enter float numbers to calculate" << endl;
+    cout << "First number: ";
+    cin >> myFnum1;
+    cout << "Second number: ";
+    cin >> myFnum2;
+    cout << "The result: " << myFnum1 * myFnum2 << endl;
+    
+    //Problem 5.
+    bool b1 = false;
+    bool b2 = true;
+    
+    cout << b1 << " = false" << endl;
+    cout << b2 << " = true" << endl;
+    
+    //Problem 6.
+    int x = 97;
+    x+=3;
+    
+    cout << x << endl;
+    
+    
+    //Problem agljkgjakjggag   7.
+    int x = 250;
+    int y = 11;
+    
+    cout << "The number of admitted students to SE is " << x <<endl;
+    cout << "The number of groups in SE is " << y << endl;
+    cout << "The number of students in each group is " << x/y << endl;
+    cout << "The number of students which is not consist in 11 group is " << x%y <<endl;
+    
+    //Problem 8.
+    double my_num1 = 25e3;
+    float my_num2 = 15e4;
+    
+    cout << my_num1 << endl;
+    cout << my_num2 << endl;
+    
+    //Problem 9.
+    int num1;
+    int num2;
+    
+    cout << "Enter any integer number to check" << endl;
+    cout << "First number: ";
+    cin >> num1;
+    cout << "Second number: ";
+    cin >> num2;
+    
+    if (num1 == num2){
+        cout << "The expression is true" <<endl;
+    }else{
+        cout << "The expression is not true" <<endl;
+    }
+     
+    
+    //Problem 10.
+    int a = 0;
+    int b = 0;
+    
+    
+    cout << "Enter some number for b1: ";
+    cin >> a;
+    cout << "Enter some number for b2: ";
+    cin >> b;
+    
+     
+     bool b1 = a<50;
+     bool b2 = a<b;
+     
+     
+    cout << b1 << endl;
+    cout << b2 << endl;
+    
+    //Problem 11.
+    
+    int a;
+    
+    cout << "Enter some number to check: ";
+    cin >> a;
+    
+    bool a1 = a < 50;
+    
+    cout << a1 << endl;
+    
+    //Problem 11.
+    
+    float grade = 74.5;
+    float weight = 30;
+    
+    cout << "The student's cumulative percentage of Mid Term is " << grade * (weight / 100) << endl;
+     
+    float g1 = 0.0, g2 = 0.0, g3 = 0.0, g4 = 0.0;
+    float c1 = 0.0, c2 = 0.0, c3 = 0.0, c4 = 0.0;
+    float og = g1 + g2 + g3 + g4;
+    float oc = c1 + c2 + c3 + c4;
+    
+    cout << "Enter grades and credits for 4 subjects to calculate GPA." << endl;
+    cout << "For PreCalculus: ";
+    cin >> g1;
+    cin >> c1;
+    cout << "For Computer Programming: ";
+    cin >> g2;
+    cin >> c2;
+    cout << "For Linear Algebra: ";
+    cin >> g3;
+    cin >> c3;
+    cout << "For ICT Tools: ";
+    cin >> g4;
+    cin >> c4;
+    
+    cout << "Overal gpa: " << (og * oc) / oc << endl;
+    
+    float gpa = (og * oc) / oc;
+    
+    if (gpa >= 80) {
+        cout << "GPA is A" << endl;
+    }
+    else if (gpa >= 60){
+        cout << "GPA is B" << endl;
+    }
+    else if (gpa >= 40){
+        cout << "GPA is C" << endl;
+    }
+    else{
+        cout << "GPA is F" << endl;
+    }
+     */
+    
+    return 0;
+}
